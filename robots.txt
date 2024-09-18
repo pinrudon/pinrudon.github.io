@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pinrudon.github.io/sitemap.html.gz
+Sitemap: https://pinrudon.github.io/app/sitemap.html.gz
+Sitemap: https://pinrudon.github.io/assets/sitemap.html.gz
+Sitemap: https://pinrudon.github.io/css/sitemap.html.gz
+Sitemap: https://pinrudon.github.io/includes/sitemap.html.gz
+Sitemap: https://pinrudon.github.io/item/sitemap.html.gz
+Sitemap: https://pinrudon.github.io/src/sitemap.html.gz
